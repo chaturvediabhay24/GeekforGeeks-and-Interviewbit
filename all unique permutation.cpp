@@ -1,4 +1,9 @@
+#include<bits/stdc++.h>
 set<vector<int> > v;
+
+
+
+
 
 void perm(vector<int> x,int l, int r){
     if(l>r) return ;
