@@ -1,6 +1,7 @@
 Node* deleteAllOccurances(Node *head,int x)
 {
     //Your code here
+    // to delete  the int x from the linked list
     Node *h1,*h2;
     h1=head;
     while(h1->data==x){
