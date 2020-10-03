@@ -19,6 +19,6 @@ int main(){
 		}cout<<"\n";
 	}
 	
-	
+	// used a simple reverse function
 	return 0;
 }
