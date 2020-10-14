@@ -6,7 +6,11 @@ int main(){
 	ll int t;
 	cin>>t;
 	while(t--){
+		
+		
+		
 		ll int n;
+		
 		ll int d;
 		cin>>n>>d;
 		ll int a[n],b[n];
